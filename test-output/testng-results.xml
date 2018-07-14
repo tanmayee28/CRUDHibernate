@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46086" started-at="2018-07-13T14:20:05Z" finished-at="2018-07-13T14:20:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46086" started-at="2018-07-13T14:20:05Z" finished-at="2018-07-13T14:20:52Z">
+      <class name="com.scp.service.CrudeHibernate.DataProviderClass">
+        <test-method status="PASS" signature="authentication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.service.CrudeHibernate.DataProviderClass@2ef5e5e3]" name="authentication" duration-ms="3444" started-at="2018-07-13T19:50:48Z" data-provider="getProvider" finished-at="2018-07-13T19:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authentication -->
+        <test-method status="PASS" signature="authentication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.service.CrudeHibernate.DataProviderClass@2ef5e5e3]" name="authentication" duration-ms="125" started-at="2018-07-13T19:50:51Z" data-provider="getProvider" finished-at="2018-07-13T19:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tanmayee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tannu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authentication -->
+        <test-method status="PASS" signature="authentication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.service.CrudeHibernate.DataProviderClass@2ef5e5e3]" name="authentication" duration-ms="235" started-at="2018-07-13T19:50:51Z" data-provider="getProvider" finished-at="2018-07-13T19:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tanmayee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authentication -->
+        <test-method status="PASS" signature="authentication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.service.CrudeHibernate.DataProviderClass@2ef5e5e3]" name="authentication" duration-ms="102" started-at="2018-07-13T19:50:51Z" data-provider="getProvider" finished-at="2018-07-13T19:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tanmayee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authentication -->
+        <test-method status="PASS" signature="authentication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.service.CrudeHibernate.DataProviderClass@2ef5e5e3]" name="authentication" duration-ms="93" started-at="2018-07-13T19:50:51Z" data-provider="getProvider" finished-at="2018-07-13T19:50:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tanmayee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tanmayee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authentication -->
+      </class> <!-- com.scp.service.CrudeHibernate.DataProviderClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
